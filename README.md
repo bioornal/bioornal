@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **bioornal/bioornal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,4 +8,4 @@ Me llamo Christian tengo 37 años. Soy de Córdoba, Argentina. Soy reciente grad
 A manera de soft-skills me considero una persona muy responsable y comprometida con lo que hago. Siempre con mente positiva y no paro hasta conseguir lo que deseo. Soy colaborador y doy apoyo a compañeros. Ellos mismos me han tildado de ser el más perseverante y tenaz del equipo y creo que es una de mis fortalezas. Si se me dan las condiciones también puedo aportar en cuanto a liderazgo. 🙌🚀
 Mi objetivo a corto plazo: seguir aprendiendo tecnologías, puliendo las que ya conozco y formandome como desarrollador.
 Mediano y largo plazo: consolidarme en el sector, adquirir mucha experiencia y poder trabajar en alguna empresa importante como developer hecho y derecho. Y nunca bajar los brazos ! 
--->
+
